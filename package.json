@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test:e2e": "cypress open",
+    "test:cyrun": "cypress run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
